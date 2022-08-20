@@ -1,0 +1,6 @@
+Linear Regression is simple to implement.
+In Decision Tree Regression, small change in the data cause a big difference in the tree structure.
+SVM is not suitable for large datasets.
+Ridge Regression include all the predictors in the final model and shrink the coefficients towards zero.
+Lasso Regression will select only one feature from a group of included features and it is a shrinker model.
+usage of Lasso model is better if the model is linear.
